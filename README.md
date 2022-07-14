@@ -13,7 +13,6 @@ https://developer.apple.com/tutorials/app-dev-training
 
 
 <p align="center">
-  <img src="./app/views/assets/images/logo.png" width="200"/>
   <h3 align="center">Yosoro</h3>
   <p align="center">Beautiful Cloud Drive Markdown NoteBook Desktop App</p>
   <p align="center">
